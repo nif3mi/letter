@@ -1,0 +1,36 @@
+#tree{
+    text-decoration: underline;
+    text-align: center;
+}
+#story{
+    display: none;
+}
+#un{
+   
+    text-align: right;
+}
+.class{
+    font-size: 20px;
+}
+#heading{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.card{
+    box-shadow: 0 2px 3px #b99566;
+    background-color: rgb(224, 201, 166);
+    font-family: monospace;
+    padding: 50px;
+
+}
+#spoon{
+    margin-left: 20px;
+}
+#sincere{
+    text-align: right;
+}
+img{
+    height: 90px;
+    width: 25%;
+}
