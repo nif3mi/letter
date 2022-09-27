@@ -51,8 +51,6 @@ $(document).ready(function () {
     $(".close").text(inputtedClosing);
 
     $("#story").show();
-
-    event.preventDefault();
   })
 })
 
