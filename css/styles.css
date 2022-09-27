@@ -17,7 +17,7 @@
     font-weight: bolder;
     font-size: 30px;
 }
-.card{
+#story{
     box-shadow: 0 2px 3px #b99566;
     background-color: rgb(224, 201, 166);
     font-family: monospace;
@@ -30,7 +30,30 @@
 #sincere{
     text-align: right;
 }
-img{
-    height: 90px;
-    width: 25%;
+#great{
+    box-shadow: 0 2px 3px aquamarine;
+    background-color: darkslategray;
+    text-align: center;
+    margin-left: 400px;
+    height: 250px;
+    width: 20%;
+    font-size: 25px;
+    font-family: cursive;
+}
+#candid{
+    display: none;
+}
+#greta{
+    box-shadow: 0 2px 3px aquamarine;
+    background-color: darkslategray;
+    text-align: center;
+    margin-left: 400px;
+    height: 250px;
+    width: 20%;
+    font-size: 25px;
+    font-family: cursive;
+    margin-top: 200px;
+}
+.form-control{
+    width: 15%;
 }
